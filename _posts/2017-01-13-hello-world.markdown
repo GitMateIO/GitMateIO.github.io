@@ -3,6 +3,8 @@ layout: post
 title:  "Hello World!"
 date:   2017-01-13 14:54:41 +0100
 categories: gitmate
+post_author: Lasse Schuirmann
+post_gravatar: ea9b9ed83df6acc43cc4ea26b0447ea7
 ---
 
 # Hello World!
