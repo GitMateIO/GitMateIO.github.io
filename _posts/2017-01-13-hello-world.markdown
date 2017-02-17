@@ -19,3 +19,5 @@ happens now and what will happen in the future with our startup - so stay tuned!
 
 If you're curious to meet us: we'll be at the
 [coala stand](https://fosdem.org/2017/stands/) at FOSDEM.
+
+{% include analytics.html %}
