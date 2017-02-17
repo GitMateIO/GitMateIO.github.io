@@ -8,6 +8,7 @@ post_gravatar: f7024441d1cba5a8979854b11b9e6088
 ---
 
 # 4 Steps to GitMate
+*by Sebastian Latacz*
 
 Hooray, our first GitMate Blog entry! This entry will give you a brief history of what happened so far. It will also show you how we approach our product and business development.
 
