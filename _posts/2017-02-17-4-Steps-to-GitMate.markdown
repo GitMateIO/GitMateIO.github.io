@@ -14,6 +14,7 @@ Hooray, our first GitMate Blog entry! This entry will give you a brief history o
 In 2013 my Co-founders Lasse Schuirmann and Fabian Neuschmidt founded an open source linter framework named coala. In 2015 coala was gaining momentum: More and more people from around the world contributed, developers discussed coala on message boards and at open source conferences and we gained several GSoC scholarships.
 
 ![alt text](https://raw.githubusercontent.com/GitMateIO/GitMateIO.github.io/master/_posts/coalastars.png "History of GitHub stars for coala")
+
 *History of GitHub stars for coala. Graph created via [star-history by timqian](http://www.timqian.com/star-history/#coala/coala)*
 
 coala helped developers to improve their code quality, but it had to be executed manually every single time - something we originally wanted to avoid by putting all the linters into one framework. It was hard to integrate coala into legacy codebases as well, as the local execution doesn’t support an incremental workflow well. Eventually, Lasse had the idea to offer coala as a Plugin for Git-Hosting-Services like GitHub or GitLab. coala should become your little coding buddy helping you out: GitMate was born.
@@ -25,6 +26,7 @@ I was looking for a topic for my MBA thesis. I got into business model- and prod
 The idea of Customer Development is to verify your business ideas by talking to potential customers from day one. That way you verify your product before you build and develop it in close cooperation with your target group. Framed into 4 Steps:
 
 ![alt text](https://github.com/GitMateIO/GitMateIO.github.io/blob/master/_posts/CustomerDevelopment.png?raw=true "The Customer Development Model")
+
 *The Customer Development Model*
 
 Steve Blank, the Godfather of Customer Development gives a great introduction in this [video](https://www.youtube.com/watch?v=xr2zFXblSRM). Also, I can highly recommend “Lean Startup” by Eric Ries, which explains the approach and shows how he used the method for his Company and “Running Lean” by Ash Maurya which explains a hands-on approach to Customer Development for web startups.
