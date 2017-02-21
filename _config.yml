@@ -25,3 +25,6 @@ github_username:  GitMateIO
 # Build settings
 markdown: kramdown
 theme: minima
+
+disqus:
+  shortname: gmblog-1
