@@ -36,6 +36,6 @@ Side note: I feel like not many startups in Germany are actually practicing meth
 
 *Footnotes:*
 
-*Linespots is the result of the research by our highly skilled colleague [Maximilian Scholz](https://github.com/sims1253)]*
+*Linespots is the result of the research by our highly skilled colleague [Maximilian Scholz](https://github.com/sims1253)*
 
-* The Lean Startup is a trademark and service mark owned by Eric Ries. *
+*The Lean Startup is a trademark and service mark owned by Eric Ries.*
