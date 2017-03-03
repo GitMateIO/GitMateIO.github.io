@@ -33,6 +33,9 @@ Right now we are evaluating whether the next step will be to validate the proble
 
 Side note: I feel like not many startups in Germany are actually practicing methods like Customer Development, Lean Startup [Footnote: Lean Startup is a Trademark by Eric Ries] or Disciplined Entrepreneurship. If you are, I would like to get in contact with you! If you know any company practicing these methods please forward this blog entry (or side note). If you do practice these methods [contact me](mailto:sebastian@gitmate.io)! (Or [join the Meetup!](https://www.meetup.com/de-DE/Lean-Startup-Hamburg/events/237908473/))
 
-*Footnotes:
-Linespots is the result of the research by our highly skilled colleague [Maximilian Scholz](https://github.com/sims1253)]
+
+*Footnotes:*
+
+*Linespots is the result of the research by our highly skilled colleague [Maximilian Scholz](https://github.com/sims1253)]*
+
 * The Lean Startup is a trademark and service mark owned by Eric Ries. *
