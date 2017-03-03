@@ -25,7 +25,7 @@ Also we tested 3 features: Our original idea the GitMate comments, an early stag
 
 The people rated the comments 3.58 in average. However the feature didn't convince them enough to pay for it: Only 36.8% responded with “Yes”. Linespots performed best in the rating (4.2) and willingness to pay (57.9%). While the Issue/Pull Request management performed worst (3.1) in the rating and hardly anybody would pay for that (15.8%).
 
-So without any programming being done, we were able to gain actual data. We verified assumptions about our customers and we got some ideas on our feature prioritization: We should concentrate on Linespots, the comments could also work and that we should drop the Issue/Pull Request management.
+So without any programming being done, we were able to gain actual data. We verified assumptions about our customers and we got some ideas on our feature prioritization: We should concentrate on Linespots, the comments could also work and we should drop the Issue/Pull Request management.
 
 On the other hand we have noticed, that we skipped ahead on the problems. For example we haven’t verified the problems we are solving with Linespots. And since people are more willing to buy something that solves a significant problem than rather something which is just nice to have, we should verify that.
 
