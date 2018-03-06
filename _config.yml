@@ -19,7 +19,7 @@ description: > # this means to ignore newlines until "baseurl:"
   GitMate is a tool to make software development better.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://blog.gitmate.io" # the base hostname & protocol for your site
-twitter_username: GitMatei_IO
+twitter_username: GitMate_IO
 github_username:  GitMateIO
 
 # Build settings
